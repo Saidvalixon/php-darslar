@@ -1,0 +1,37 @@
+.discon{
+	max-width: 1600px;
+	max-height: 800px;
+	text-align: center;
+}
+.bacc{
+	   width: 1500px;
+	   height: 750px;
+		background-image: url(img/bcc.jpg );
+	 background-size: cover;
+		background-position: center;
+		margin: 0 auto;
+}
+ .well{
+ 	padding-top: 80px;
+ 	padding-right: 40px;
+ }
+ .inp_city{
+ 	padding-top: 10px;
+ 	padding-bottom: 10px;
+ 	padding-right: 400px;
+ 	border-color: #cccfd1;
+ 	border-radius: 7px;
+ 	background-color: #dce4ea;
+ }
+ .inp_sub{
+    padding-top: 7px;
+ 	padding-bottom: 7px;
+ 	padding-right: 25px;
+ 	padding-left: 25px;
+ 	border-radius: 7px;
+ 	border-color: transparent;
+ 	background-color: #84ceff;
+ }
+ .sub{
+ 	margin-top: 50px;
+ }
